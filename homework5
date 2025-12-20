@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Homework 5</title>
+</head>
+<body>
+  <h1>Homework 5 - Collage Draft</h1>
+
+  <h2>repeatingshapes</h2>
+  <img src="hw5collage.png" width="500">
+  <p><strong>Screenshot:</strong></p>
+  <img src="hw5collage.png"  width="500">
+
+ 
+
+  <h2>Reflection</h2>
+ <p>Reflection goes here</p>
+
+  <p><a href="index.html">Go back to homepage</a></p>
+</body>
+</html>
